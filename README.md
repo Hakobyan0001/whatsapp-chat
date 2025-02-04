@@ -21,7 +21,7 @@ VITE_GREEN_API_URL=https://your-green-api-url.com
 
 `npm run dev`
 
-## 5. Сборка проекта для продакшена
+## Сборка проекта для продакшена
 
 `npm run build`
 
